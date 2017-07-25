@@ -1,0 +1,5 @@
+What Git concepts were you struggling with prior to the GPS session? Merging locally vs. updating the master - when you have to sync, etc. I also was very confused by how merge conflicts could be resolved.
+What concepts were clarified during the GPS? Both of the above!
+What questions did you ask your pair and the guide? My pair had to cancel so it was just the guide. I asked some questions related to pushing, pulling, and merging. Also some basic command line formatting / editing questions.
+What still confuses you about Git? I think I'm still struggling a bit with understanding when to update the master locally vs. when just to push everything to GitHub, and then pull it in. I think I get it...but we'll see!
+How was your first experience of pairing in a GPS? N/A - my pair had to cancel. But I treated it as a solo challenge and enjoyed getting to ask my guide questions!
